@@ -1,8 +1,8 @@
-# DevOps test task
+# DevOps Test Task
 
-## How to run
+## Как запустить проект
 
 ```bash
-git clone <your-repo>
-cd devops-project
-docker-compose up -d
+git clone https://github.com/SakuraNodeJs/devops-test-task.git
+cd devops-test-task
+docker compose up -d
